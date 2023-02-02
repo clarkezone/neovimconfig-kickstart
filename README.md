@@ -5,5 +5,5 @@ My neovim config layered on kickstart
 rm -rf ~/.config/nvim
 rm -rf ~/.local/share/nvim
 mkdir ~/.config/nvim
-curl -LO https://raw.githubusercontent.com/nvim-lua/kickstart.nvim/master/init.lua
+curl -Lo ~/.config/nvim/init.lua https://raw.githubusercontent.com/nvim-lua/kickstart.nvim/master/init.lua
 ```
